@@ -22,15 +22,15 @@ Um modal de login responsivo e acessível, construído com HTML5 <dialog>, CSS m
 
 ## 🎨 Design
 
-1- Cores modernas (#6366F1 como primária).
-2- Bordas arredondadas (border-radius: 24px).
-3- Espaçamento consistente e hierarquia visual clara.
+- 🎨 **Cores modernas**: `#000000` como primária
+- 🔲 **Bordas arredondadas**: `border-radius: 24px`
+- 📐 **Espaçamento consistente**: Hierarquia visual clara
 
 ## 🌟 Destaques
 
-🔹 Zero dependências (leve e rápido).
-🔹 Acessível (labels adequados, foco visível).
-🔹 Código modular (fácil de estender).
+- 🔹 **Zero dependências**: Leve e rápido
+- 🔹 **Acessível**: Labels adequados e foco visível
+- 🔹 **Código modular**: Fácil de estender
 
 ## 📄 Licença
 
