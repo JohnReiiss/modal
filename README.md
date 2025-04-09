@@ -14,17 +14,17 @@ Um modal de login responsivo e acessível, construído com HTML5 <dialog>, CSS m
 
 ## 🛠️ Tecnologias Utilizadas
 
-1- **HTML5**: (semântico com <dialog>).
-2- **CSS3** : (Flexbox, pseudo-classes, variáveis).
-3- **JavaScript Vanilla** : (manipulação direta do DOM).
-4- **Font Awesome** : (ícones).
-5- **Google Fonts** : (Poppins).
+- **HTML5**: Semântico com `<dialog>`
+- **CSS3**: Flexbox, pseudo-classes, variáveis
+- **JavaScript Vanilla**: Manipulação direta do DOM
+- **Font Awesome**: Ícones
+- **Google Fonts**: Poppins
 
 ## 🎨 Design
 
-1-Cores modernas (#6366F1 como primária).
-2-Bordas arredondadas (border-radius: 24px).
-3-Espaçamento consistente e hierarquia visual clara.
+1- Cores modernas (#6366F1 como primária).
+2- Bordas arredondadas (border-radius: 24px).
+3- Espaçamento consistente e hierarquia visual clara.
 
 ## 🌟 Destaques
 
