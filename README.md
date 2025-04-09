@@ -40,7 +40,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://johnreiiss.github.io/modal/)
 
-🚀 Como Usar
+## 🚀 Como Usar
 
 1- Clone o repositório
 
