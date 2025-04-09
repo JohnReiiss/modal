@@ -14,11 +14,11 @@ Um modal de login responsivo e acessível, construído com HTML5 <dialog>, CSS m
 
 ## 🛠️ Tecnologias Utilizadas
 
-1-HTML5 (semântico com <dialog>).
-2-CSS3 (Flexbox, pseudo-classes, variáveis).
-3-JavaScript Vanilla (manipulação direta do DOM).
-4-Font Awesome (ícones).
-5-Google Fonts (Poppins).
+1- **HTML5**: (semântico com <dialog>).
+2- **CSS3** : (Flexbox, pseudo-classes, variáveis).
+3- **JavaScript Vanilla** : (manipulação direta do DOM).
+4- **Font Awesome** : (ícones).
+5- **Google Fonts** : (Poppins).
 
 ## 🎨 Design
 
