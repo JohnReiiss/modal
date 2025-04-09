@@ -52,6 +52,10 @@ git clone https://github.com/JohnReiiss/Portfolio-Johnatan-Hayabusa.git
 
 ---
 
+## 📌 Captura de Tela
+![image](https://github.com/user-attachments/assets/7f7e3249-f4e1-4946-a139-2a58e27ee20e)
+
+
 ## Contato
 Se quiser saber mais sobre meu trabalho ou discutir oportunidades, entre em contato:
 
