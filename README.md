@@ -38,8 +38,6 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 <div align="center"> <p>Feito por <a href="https://github.com/JohnReiiss">John Reis</a></p> <p>🔗 <strong>Link do projeto</strong>: <a href="https://github.com/JohnReiiss/modal">github.com/JohnReiiss/modal</a></p> </div>
 
-Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://johnreiiss.github.io/modal/)
-
 ## 🚀 Como Usar
 
 1- Clone o repositório
@@ -49,6 +47,8 @@ git clone https://github.com/JohnReiiss/Portfolio-Johnatan-Hayabusa.git
 ```
 
 2- Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
+
+3- Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://johnreiiss.github.io/modal/)
 
 ---
 
