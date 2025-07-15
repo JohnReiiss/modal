@@ -52,6 +52,7 @@ git clone https://github.com/JohnReiiss/Portfolio-Johnatan-Hayabusa.git
 ```
 
 2- Abra o arquivo `index.html` em seu navegador para visualizar o projeto.
+
 3- Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://johnreiiss.github.io/modal/)
 
 ---
