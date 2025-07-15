@@ -5,6 +5,7 @@ Um modal de login responsivo e acessível, construído com HTML5 <dialog>, CSS m
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </div>
 
 ## ✨ Funcionalidades
+
 - ✅ Abertura/Fechamento suave usando a API nativa <dialog> do HTML5.
 - ✅ Design responsivo que se adapta a diferentes tamanhos de tela.
 - ✅ Formulário de login com campos para e-mail e senha.
@@ -56,6 +57,7 @@ git clone https://github.com/JohnReiiss/Portfolio-Johnatan-Hayabusa.git
 ---
 
 ## 📌 Captura de Tela
+
 ![image](https://github.com/user-attachments/assets/7f7e3249-f4e1-4946-a139-2a58e27ee20e)
 ---
 
